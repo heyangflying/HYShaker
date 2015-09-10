@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5763EFBC-894D-4385-A505-B624068F6261</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HYShaker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>999F1A41BB1A5ED5F8B11F38B7D9F31709169CB3</key>
+		<string>https://github.com/hy285585804/HYShaker.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HYShaker.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>999F1A41BB1A5ED5F8B11F38B7D9F31709169CB3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hy285585804/HYShaker.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>999F1A41BB1A5ED5F8B11F38B7D9F31709169CB3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>999F1A41BB1A5ED5F8B11F38B7D9F31709169CB3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HYShaker</string>
+		</dict>
+	</array>
+</dict>
+</plist>
